@@ -1,0 +1,3 @@
+[submodule "Blackjack-Simulator-Logic"]
+	path = Blackjack-Simulator-Logic
+	url = git@github.com:rafa3127/Blackjack-Simulator-Logic.git
